@@ -1,0 +1,66 @@
+image: bitnami/laravel:latest
+
+services:
+  - postgres:9.6
+
+variables:
+  POSTGRES_DATABASE: postgres
+  POSTGRES_PASSWORD: password
+  DB_HOST: postgres
+  DB_USERNAME: root
+
+stages:
+  - test
+  - package
+  - deploy
+
+php_unit_test:
+  stage: test
+  script:
+    - cp .env.example .env
+    - composer install
+    - php artisan key:generate
+    - php artisan migrate
+    - vendor/bin/phpunit
+  cache:
+    key: composer
+    paths:
+      - vendor/
+
+js_unit_test:
+  stage: test
+  script:
+    - npm install
+    - npm run test
+
+package_upload:
+  stage: package
+  script:
+    - composer install
+    - npm install
+    - webpack
+  cache:
+    key: composer
+    paths:
+      -vendor/
+    policy: pull
+  artifacts:
+    paths:
+      - public/
+    expire_in: 1 week
+  only:
+    - tags
+
+deploy_production:
+  stage: deploy
+  script:
+    - composer install
+    - npm install
+    - webpack
+    - .composer/vendor/bin/envoy run deploy
+  environment:
+    name: production
+    url: http://192.168.0.1
+  when: manual
+  only:
+    - master
