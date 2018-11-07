@@ -1,0 +1,9 @@
+before_script:
+  - apt-get update -qq && DEBIAN_FRONTEND=noninteractive apt-get install -y -qq ca-certificates git php php-xml
+  - php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  - php composer-setup.php
+  - php composer.phar install
+
+phpunit:
+  script:
+    - vendor/bin/phpunit tests/ROT13FormatterTest

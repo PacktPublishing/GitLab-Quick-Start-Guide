@@ -1,0 +1,23 @@
+{
+    "name": "judges119/monorot13",
+    "description": "A MonoLog formatter that puts logs through the ROT13 transformation before logging them.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam O'Grady",
+            "email": "adam.ogrady@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "~4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Judges119\\Monolog\\": "src"
+        }
+    }
+}
