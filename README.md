@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789534344 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789534344_cover.png" alt="GitLab Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [GitLab Quick Start Guide](https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789534344 ), published by Packt.
+This is the code repository for [GitLab Quick Start Guide](https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=B07L3Q35JZ ), published by Packt.
 
 **Migrate to GitLab for all your repository management solutions**
 
@@ -10,14 +10,14 @@ This is the code repository for [GitLab Quick Start Guide](https://www.packtpub.
 Gitlab is an open source repository management and version control toolkit with an enterprise offering. This book is the ideal guide to GitLab as a version control system (VCS), issue management tool, and a continuous integration platform.
 
 This book covers the following exciting features:
-Set up CI and test builds for your projects 
-Understand the benefits and limitations of GitLab work?ow 
-Migrate from other common VCS platforms to Gitlab 
-Create, review, and merge code changes 
-Learn to branch local code and create a new branch in GitLab 
-Configure sequential stages and simultaneous stages for CI/CD 
-Access Mattermost for on-premise GitLab 
-Discover the issue tracking features of GitLab 
+* Set up CI and test builds for your projects 
+* Understand the benefits and limitations of GitLab work?ow 
+* Migrate from other common VCS platforms to Gitlab 
+* Create, review, and merge code changes 
+* Learn to branch local code and create a new branch in GitLab 
+* Configure sequential stages and simultaneous stages for CI/CD 
+* Access Mattermost for on-premise GitLab 
+* Discover the issue tracking features of GitLab 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/9781789534344) today!
 
