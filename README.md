@@ -19,7 +19,7 @@ This book covers the following exciting features:
 * Access Mattermost for on-premise GitLab 
 * Discover the issue tracking features of GitLab 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/9781789534344) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07L3Q35JZ) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -64,9 +64,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789534344_ColorImages.pdf).
 
 ### Related products
-* Git Version Control Cookbook - Second Edition  [[Packt]](https://india.packtpub.com/in/application-development/git-version-control-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781789137545)
+* Git Version Control Cookbook - Second Edition  [[Packt]](https://india.packtpub.com/in/application-development/git-version-control-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789137543)
 
-* Hands-On DevOps with Vagrant  [[Packt]](https://india.packtpub.com/in/virtualization-and-cloud/hands-devops-vagrant?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781789138054)
+* Hands-On DevOps with Vagrant  [[Packt]](https://india.packtpub.com/in/virtualization-and-cloud/hands-devops-vagrant?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789138051)
 
 
 ## Get to Know the Author
