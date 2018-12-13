@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789534344 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789534344_cover.png" alt="GitLab Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [GitLab Quick Start Guide](https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=B07L3Q35JZ ), published by Packt.
+This is the code repository for [GitLab Quick Start Guide](https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789534344), published by Packt.
 
 **Migrate to GitLab for all your repository management solutions**
 
