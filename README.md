@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11768?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # GitLab Quick Start Guide
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789534344 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789534344_cover.png" alt="GitLab Quick Start Guide" height="256px" align="right"></a>
